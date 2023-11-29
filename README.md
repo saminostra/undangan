@@ -1,8 +1,5 @@
 
 
-![Thumbnail](/assets/images/banner.png)
-
-## Demo
 
 <https://dewanakl.github.io/undangan/?to=Teman+teman+semua>
 
